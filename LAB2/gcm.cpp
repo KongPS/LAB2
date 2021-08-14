@@ -27,7 +27,7 @@ int main()
 		{
 			if (x%n==0 && y%n==0)
 			{
-				y = y / n;
+				x = x / n;
 				a=a*n;
 			}
 		}
